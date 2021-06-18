@@ -1,0 +1,44 @@
+combat:
+dont allow focusing dead characters
+animation queue
+exhaust with charges per combat
+forget? with charges per run
+x cost cards
+character manager, character death & invocation
+abilities? permanent actions with cd (Potions?)
+retain cards hand
+retain block
+generate cards in combat
+show next(x) cards deck
+combat manager
+board manager
+select floor as target
+
+magicka like mechanic for a class or mainResource, where you have cantrips equipped or casted, and you
+trigger them by play a specific sequence of attacks powers and skills, or cards with simbols, like play 
+3 fire spells in a row and you autocast a fire spell, maybe persist between turns, maybe 
+
+hunter can have a melee weapon that doesnt cost mainResource to use, because they would have no attacks
+if they are playing with the artifact mainResource and didnt draw the artifact enabler
+and after a few hit loses edge and deals less damage, but can be resharpened
+using mainResource
+
+taming sistem, where you can add beasts to your party as npcs, when you want to tame a beast, the beast enrages
+when hit, so you should avoid hitting it, just blocking or dodging while playing the taming cards and abilities
+
+
+
+general:
+character models for different animations
+ResourceLibrary, change mainResource to be a combination of endturn reduction bool, end combat reduction bool, beginturn gain bool and conditions to gain or reduce
+talents
+equipment
+map
+next combat
+events
+shops
+
+have cards in "reserve" outside of the deck, and be able to swap one from the deck with 
+one from the reserve once per node
+
+

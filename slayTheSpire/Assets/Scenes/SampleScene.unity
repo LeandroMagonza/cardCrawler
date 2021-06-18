@@ -626,7 +626,7 @@ MonoBehaviour:
     type: 3}
   characterPrefab: {fileID: 7357134608579150893, guid: e711510059640284380dea7f8be6d8fd,
     type: 3}
-  instancedCardsHand: []
+  instancedTemplatesHand: []
   instancedCharacters: []
 --- !u!4 &1411404210
 Transform:
